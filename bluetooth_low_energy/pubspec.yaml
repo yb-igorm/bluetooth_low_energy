@@ -23,15 +23,15 @@ dependencies:
   bluetooth_low_energy_platform_interface:
     git:
       url: git@github.com:yb-igorm/bluetooth_low_energy.git
-      path: bluetooth_low_energy_platform_interface
+      path: bluetooth_low_energy_platform_interface/
   bluetooth_low_energy_android:
     git:
       url: git@github.com:yb-igorm/bluetooth_low_energy.git
-      path: bluetooth_low_energy_android
+      path: bluetooth_low_energy_android/
   bluetooth_low_energy_darwin:
     git:
       url: git@github.com:yb-igorm/bluetooth_low_energy.git
-      path: bluetooth_low_energy_darwin
+      path: bluetooth_low_energy_darwin/
 
 
 
