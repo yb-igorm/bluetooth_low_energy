@@ -32,14 +32,8 @@ dependencies:
     git:
       url: git@github.com:yb-igorm/bluetooth_low_energy.git
       path: bluetooth_low_energy_darwin
-  bluetooth_low_energy_windows:
-    git:
-      url: git@github.com:yb-igorm/bluetooth_low_energy.git
-      path: bluetooth_low_energy_windows
-  bluetooth_low_energy_linux:
-    git:
-      url: git@github.com:yb-igorm/bluetooth_low_energy.git
-      path: bluetooth_low_energy_linux
+
+
 
 dev_dependencies:
   flutter_test:
